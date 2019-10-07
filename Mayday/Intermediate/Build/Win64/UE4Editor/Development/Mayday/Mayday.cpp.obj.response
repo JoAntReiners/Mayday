@@ -28,9 +28,9 @@
 /wd4838
 /we4668
 /I .
-/I C:\Users\jo044618\Documents\GitHub\Mayday\Mayday\Intermediate\Build\Win64\UE4Editor\Inc\Mayday
-/I C:\Users\jo044618\Documents\GitHub\Mayday\Mayday\Source
-/I C:\Users\jo044618\Documents\GitHub\Mayday\Mayday\Source\Mayday
+/I C:\Users\st465224\Documents\GitHub\Mayday\Mayday\Intermediate\Build\Win64\UE4Editor\Inc\Mayday
+/I C:\Users\st465224\Documents\GitHub\Mayday\Mayday\Source
+/I C:\Users\st465224\Documents\GitHub\Mayday\Mayday\Source\Mayday
 /I Runtime
 /I Runtime\Core\Public
 /I Runtime\Core
@@ -435,12 +435,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt"
-/FI"C:\Users\jo044618\Documents\GitHub\Mayday\Mayday\Intermediate\Build\Win64\MaydayEditor\Development\Engine\SharedPCH.Engine.h"
-/Yu"C:\Users\jo044618\Documents\GitHub\Mayday\Mayday\Intermediate\Build\Win64\MaydayEditor\Development\Engine\SharedPCH.Engine.h"
-/Fp"C:\Users\jo044618\Documents\GitHub\Mayday\Mayday\Intermediate\Build\Win64\MaydayEditor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\jo044618\Documents\GitHub\Mayday\Mayday\Source\Mayday\Mayday.cpp"
-/FI"C:\Users\jo044618\Documents\GitHub\Mayday\Mayday\Intermediate\Build\Win64\UE4Editor\Development\Mayday\Definitions.Mayday.h"
-/Fo"C:\Users\jo044618\Documents\GitHub\Mayday\Mayday\Intermediate\Build\Win64\UE4Editor\Development\Mayday\Mayday.cpp.obj"
+/FI"C:\Users\st465224\Documents\GitHub\Mayday\Mayday\Intermediate\Build\Win64\MaydayEditor\Development\Engine\SharedPCH.Engine.h"
+/Yu"C:\Users\st465224\Documents\GitHub\Mayday\Mayday\Intermediate\Build\Win64\MaydayEditor\Development\Engine\SharedPCH.Engine.h"
+/Fp"C:\Users\st465224\Documents\GitHub\Mayday\Mayday\Intermediate\Build\Win64\MaydayEditor\Development\Engine\SharedPCH.Engine.h.pch"
+"C:\Users\st465224\Documents\GitHub\Mayday\Mayday\Source\Mayday\Mayday.cpp"
+/FI"C:\Users\st465224\Documents\GitHub\Mayday\Mayday\Intermediate\Build\Win64\UE4Editor\Development\Mayday\Definitions.Mayday.h"
+/Fo"C:\Users\st465224\Documents\GitHub\Mayday\Mayday\Intermediate\Build\Win64\UE4Editor\Development\Mayday\Mayday.cpp.obj"
 /TP
 /GR-
 /W4

@@ -1,7 +1,7 @@
-C:\Users\jo044618\Documents\GitHub\Mayday\Mayday\Intermediate\Build\Win64\UE4Editor\Development\Mayday\Definitions.Mayday.h
-c:\users\jo044618\documents\github\mayday\mayday\source\mayday\MaydayGameModeBase.h
+C:\Users\st465224\Documents\GitHub\Mayday\Mayday\Intermediate\Build\Win64\UE4Editor\Development\Mayday\Definitions.Mayday.h
+c:\users\st465224\documents\github\mayday\mayday\source\mayday\MaydayGameModeBase.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\jo044618\Documents\GitHub\Mayday\Mayday\Intermediate\Build\Win64\UE4Editor\Inc\Mayday\MaydayGameModeBase.generated.h
+C:\Users\st465224\Documents\GitHub\Mayday\Mayday\Intermediate\Build\Win64\UE4Editor\Inc\Mayday\MaydayGameModeBase.generated.h
