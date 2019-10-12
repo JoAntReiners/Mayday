@@ -1,2 +1,2 @@
-C:\Users\jo044618.NET\Documents\GitHub\Mayday\Mayday\Intermediate\Build\Win64\UE4Editor\Development\Mayday\Definitions.Mayday.h
-c:\users\jo044618.net\documents\github\mayday\mayday\source\mayday\Mayday.h
+D:\Documents\School\Workshop\Mayday\Mayday\Intermediate\Build\Win64\UE4Editor\Development\Mayday\Definitions.Mayday.h
+d:\documents\school\workshop\mayday\mayday\source\mayday\Mayday.h

@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <None Include="..\..\Mayday.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{9F002A4F-FDED-46EC-AA89-A1F450D45735}</UniqueIdentifier>
+      <UniqueIdentifier>{4F62D6B8-CF56-4007-B73C-BC6E5C906BC3}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Mayday.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{826AD07C-F7A9-4596-B2BA-7CE4F92DCD70}</UniqueIdentifier>
+      <UniqueIdentifier>{216D9EA9-580A-4376-835C-7F9ACE77691D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +23,11 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\Mayday">
-      <UniqueIdentifier>{ED872C3F-12F4-438D-9AF0-FAF29B81FE2C}</UniqueIdentifier>
+      <UniqueIdentifier>{20E0C80E-F8A2-431C-9E35-0B5FE3C52DB5}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\Mayday\Mayday.Build.cs">
       <Filter>Source\Mayday</Filter>
@@ -39,6 +42,12 @@
       <Filter>Source\Mayday</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\Mayday\MaydayGameModeBase.h">
+      <Filter>Source\Mayday</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Mayday\ShootBullet.cpp">
+      <Filter>Source\Mayday</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Mayday\ShootBullet.h">
       <Filter>Source\Mayday</Filter>
     </ClInclude>
   </ItemGroup>
