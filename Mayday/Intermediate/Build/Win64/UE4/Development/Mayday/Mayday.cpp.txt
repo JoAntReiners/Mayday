@@ -1,0 +1,2 @@
+C:\Users\Steven\Documents\GitHub\Mayday\Mayday\Intermediate\Build\Win64\UE4\Development\Mayday\Definitions.Mayday.h
+c:\users\steven\documents\github\mayday\mayday\source\mayday\Mayday.h
