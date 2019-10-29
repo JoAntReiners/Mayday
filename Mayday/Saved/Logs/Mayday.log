@@ -9419,3 +9419,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.29-20.05.08:463][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.10.29-20.27.23:201][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Character/CartChara" FILE="../../../../../../Documents/School/Workshop/Mayday/Mayday/Content/Blueprints/Character/CartChara.uasset" SILENT=true
 [2019.10.29-20.27.23:324][388]LogSavePackage: Moving '../../../../../../Documents/School/Workshop/Mayday/Mayday/Saved/CartChara714E1AAA4F8AF47267101F8FE095F1D6.tmp' to '../../../../../../Documents/School/Workshop/Mayday/Mayday/Content/Blueprints/Character/CartChara.uasset'
+[2019.10.29-20.30.36:067][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.10.29-20.30.36:812][205]LogSlate: Window 'Mayday - Unreal Editor' being destroyed
+[2019.10.29-20.30.36:822][205]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.29-20.30.37:673][206]Cmd: QUIT_EDITOR
+[2019.10.29-20.30.38:942][206]LogExit: Preparing to exit.
+[2019.10.29-20.30.41:265][206]LogExit: Editor shut down
+[2019.10.29-20.30.41:268][206]LogExit: Transaction tracking system shut down
+[2019.10.29-20.30.48:925][206]LogExit: Object subsystem successfully closed.
+[2019.10.29-20.30.49:804][206]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.29-20.30.49:898][206]LogD3D11RHI: Shutdown
+[2019.10.29-20.30.49:898][206]LogD3D11RHI: CleanupD3DDevice
+[2019.10.29-20.30.50:347][206]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.29-20.30.50:347][206]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.29-20.30.50:366][206]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.29-20.30.50:366][206]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.29-20.30.50:366][206]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2019.10.29-20.30.50:366][206]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.29-20.30.50:652][206]LogD3D11RHI: ~FD3D11DynamicRHI
